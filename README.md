@@ -2,6 +2,7 @@
 ## _Tìm về Nguyên gốc của Giá trị sản phẩm dịch vụ "Proof of concept - viết tắt: P.o.C"_
 
 # Hướng dẫn & danh sách kiểm tra thâm nhập
+_Tham khảo: https://www.belfercenter.org/publication/cybersecurity-campaign-playbook_
 
 ## Tổng quan
 
