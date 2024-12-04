@@ -136,9 +136,13 @@ Nền tảng Hệ thống Quản lý định danh, xác thực và truy cập đ
 **Lợi ích chính:**
 
 6.1. **Quản lý quyền truy cập**: Nền tảng iAM Security Platform cho phép bạn quản lý quyền truy cập của người dùng vào các tài nguyên IT, bao gồm cả tài khoản ngân hàng, ứng dụng, và mạng.
+
 6.2. **Xác thực và xác minh quyền truy cập**: Hệ thống này sử dụng công nghệ xác thực và xác minh quyền truy cập (ID-based access control) để đảm bảo rằng chỉ những người có thẩm quyền mới có thể truy cập vào các tài nguyên IT.
+
 6.3. **Truy cập điện tử bảo mật**: Nền tảng iAM Security Platform cung cấp các tính năng bảo mật về truy cập điện tử, bao gồm cả mã hóa và xác thực hai yếu tố (2FA).
+
 6.4. **Kiểm soát nhân viên**: Hệ thống này cho phép bạn quản lý người dùng IT, bao gồm cả việc tạo, quản lý và loại bỏ người dùng.
+
 6.5. **Phân tích và báo cáo**: Nền tảng iAM Security Platform cho phép bạn thu thập và phân tích thông tin về hoạt động truy cập của người dùng, giúp bạn tối ưu hóa hệ thống bảo mật.
 
 **Cơ sở vật chất:**
