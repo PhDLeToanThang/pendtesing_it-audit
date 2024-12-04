@@ -7,6 +7,11 @@ _Tham khảo: https://www.belfercenter.org/publication/cybersecurity-campaign-pl
 ## Tổng quan
 
 Một hướng dẫn toàn diện về kiểm tra thâm nhập có đạo đức, được thiết kế tỉ mỉ để bao gồm tất cả các giai đoạn của một cuộc kiểm tra thâm nhập. Danh sách kiểm tra từng bước này đảm bảo bao quát toàn diện từ khâu chuẩn bị đến báo cáo, lý tưởng cho cả người kiểm tra mới vào nghề và có kinh nghiệm.
+---
+Các bước kiểm tra thâm nhập
+Trong phần này, chúng tôi sẽ cung cấp cho bạn một số bước nhất định mà bạn nên luôn tuân theo khi thực hiện kiểm tra thâm nhập.
+
+![image](https://github.com/user-attachments/assets/981fce09-2d81-4ecc-a883-094ef67c89a3)
 
 ---
 
