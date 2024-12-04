@@ -1,6 +1,6 @@
 # iAM Security Platform và Pentesting Checklist:
 
-## 1. identity access management platform - 5 layers (idP - SP)##
+## 1. identity access management platform - 5 layers (idP - SP)
 ----
 Tham khảo 1: Ưu tiên dùng Giao thức kết nối OpenID https://openid.net/connect/faq/
 
