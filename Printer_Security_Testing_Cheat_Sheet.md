@@ -11,7 +11,7 @@ PRET is a new tool for printer security testing developed in the scope of a [Mas
 
 The main idea of PRET is to facilitate the communication between the end-user and the printer. Thus, after entering a UNIX-like command, PRET translates it to PostScript, PJL or PCL, sends it to the printer, evaluates the result and translates it back to a user-friendly format. PRET offers a whole bunch of commands useful for printer attacks and fuzzing.
 
-![PRET design](img/architecture.png)
+![image](https://github.com/user-attachments/assets/50560b20-da1e-4062-9d8b-644123bac0cc)
 
 ### Installation
 
