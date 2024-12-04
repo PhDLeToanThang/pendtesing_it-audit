@@ -5,6 +5,12 @@
 A comprehensive guide for ethical penetration testing, meticulously designed to cover all phases of a penetration test. This step-by-step checklist ensures thorough coverage from preparation to reporting, ideal for both novice and experienced testers.
 
 ---
+Steps of Pen-Testing
+In this section, We'll give you a certain steps you should always follow when you're pentesting.
+
+![image](https://github.com/user-attachments/assets/906117c7-52bb-4097-80c5-ca75401af3bf)
+
+---
 
 ## Table of Contents
 
