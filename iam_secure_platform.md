@@ -1,4 +1,5 @@
-# iAM Platform:
+# iAM Security Platform và Pentesting Checklist:
+
 ## 1. identity access management platform - 5 layers (idP - SP)##
 ----
 Tham khảo 1: Ưu tiên dùng Giao thức kết nối OpenID https://openid.net/connect/faq/
@@ -128,3 +129,28 @@ Như vậy, nếu triển khai MFA và Multi Factors "đa yếu tố xác thực
 Lưu ý: Các phần mềm trên vẫn cho phép cài lại, cài mới trên các HĐH phiên bản cũ 32/64bit ví dụ: Windows XP/Win7/8x/10x/11x/12x hoặc 2k3 64bit/ 2k8 x64bit/2k12 x63bit/2k16/2k19/2k22... Linux x64bit.
 
 #### - Hệ thống giải pháp "Điện toán ứng dụng - Cloud App" hoặc Web hóa toàn bộ ứng dụng theo chuẩn HTML5 hoặc K8s sẽ giúp tích hợp MFA và TOTP trên tầng Portal Workspace của người dùng, dẽ dàng tích hợp SSO - LDAPs ở tầng ứng dụng phần mềm (không có source code để sửa) vì cấu hình giữa HĐH của máy người dùng và Windows Authenticate Apps là có sẵn các phương thức cấu hình bypass hoặc Use Passkey dựa trên thư viện phần mềm hãng thứ 3 với HĐH ví dụ: Github, Google, Linkedin Login với Windows Authenticate.
+
+## 6. Tóm lược:
+Nền tảng Hệ thống Quản lý định danh, xác thực và truy cập điện tử (iAM Security Platform) là một hệ thống công nghệ thông tin được thiết kế để quản lý và giám sát quyền truy cập của người dùng vào tài nguyên Công nghệ số và dịch vụ CNTT. Dưới đây là chi tiết về nền tảng này:
+
+**Lợi ích chính:**
+
+6.1. **Quản lý quyền truy cập**: Nền tảng iAM Security Platform cho phép bạn quản lý quyền truy cập của người dùng vào các tài nguyên IT, bao gồm cả tài khoản ngân hàng, ứng dụng, và mạng.
+6.2. **Xác thực và xác minh quyền truy cập**: Hệ thống này sử dụng công nghệ xác thực và xác minh quyền truy cập (ID-based access control) để đảm bảo rằng chỉ những người có thẩm quyền mới có thể truy cập vào các tài nguyên IT.
+6.3. **Truy cập điện tử bảo mật**: Nền tảng iAM Security Platform cung cấp các tính năng bảo mật về truy cập điện tử, bao gồm cả mã hóa và xác thực hai yếu tố (2FA).
+6.4. **Kiểm soát nhân viên**: Hệ thống này cho phép bạn quản lý người dùng IT, bao gồm cả việc tạo, quản lý và loại bỏ người dùng.
+6.5. **Phân tích và báo cáo**: Nền tảng iAM Security Platform cho phép bạn thu thập và phân tích thông tin về hoạt động truy cập của người dùng, giúp bạn tối ưu hóa hệ thống bảo mật.
+
+**Cơ sở vật chất:**
+
+1. **Trang web và ứng dụng di động**: Hệ thống này được cung cấp theo dạng trang web và ứng dụng di động, cho phép người dùng truy cập vào hệ thống từ bất kỳ đâu.
+2. **Máy chủ và thiết bị lưu trữ**: Nền tảng iAM Security Platform yêu cầu máy chủ và thiết bị lưu trữ để xử lý và lưu trữ dữ liệu của hệ thống.
+3. **Dịch vụ bảo mật**: Hệ thống này có các dịch vụ bảo mật chuyên nghiệp, bao gồm cả việc kiểm tra và sửa chữa bảo mật.
+
+**Hệ thống bảo trì:**
+
+1. **Quản lý bản cập nhật và nâng cấp**: Nền tảng iAM Security Platform cho phép bạn quản lý bản cập nhật và nâng cấp hệ thống một cách linh hoạt.
+2. **Chế độ báo cáo**: Hệ thống này cung cấp các chế độ báo cáo để giúp bạn theo dõi và phân tích hoạt động của hệ thống.
+
+Tóm lại, nền tảng Hệ thống Quản lý định danh, xác thực và truy cập điện tử (iAM Security Platform) mang lại các lợi ích như quản lý quyền truy cập, xác thực và truy cập điện tử bảo mật, kiểm soát nhân viên, phân tích và báo cáo, và nhiều hơn nữa.
+
